@@ -1,0 +1,25 @@
+{
+  "bot-name": "KADIKI-XMD",
+  "description": "KADIKI-XMD made for people on Earth",
+  "logo": "https://raw.githubusercontent.com/Mulanation/KADIKI-XMD/refs/heads/main/Images/XByte-logo.png",
+  "keywords": ["bot"],
+  "documentation-link": "https://muller-xmd-session-id.onrender.com",
+  "owner-verification": "softwaremuller@gmail.com",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put session id",
+      "value": "",
+      "required": true
+    },
+    "PREFIX": {
+      "description": "Bot command prefix, (e.g, . , ! @ etc",
+      "value": ".",
+      "required": true  
+    },
+    "PREMIUM_USERS": {
+      "description": "premium users",
+      "value": "263781152078",
+      "required": false
+    }
+  }
+}
