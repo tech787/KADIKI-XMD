@@ -80,7 +80,7 @@ const store = {
     }
 }
 
-let phoneNumber = "263712779049"
+let phoneNumber = "263718598989"
 let owner = JSON.parse(fs.readFileSync('./data/owner.json'))
 
 global.botname = "KADIKI-XMD BOT"
