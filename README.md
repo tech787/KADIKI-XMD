@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mulanation/KADIKI-XMD"><img src="https://img.shields.io/github/stars/Crazynotdev/KADIKI-XMD?style=flat-square&color=yellow"></a>
-  <a href="https://github.com/Mulanation/KADIKI-XMD/fork"><img src="https://img.shields.io/github/forks/Mulanation/KADIKI-XMD?style=flat-square&color=lightblue"></a>
+  <a href="https://github.com/tech787/KADIKI-XMD"><img src="https://img.shields.io/github/stars/tech787/KADIKI-XMD?style=flat-square&color=yellow"></a>
+  <a href="https://github.com/tech787/KADIKI-XMD/fork"><img src="https://img.shields.io/github/forks/tech787/KADIKI-XMD?style=flat-square&color=lightblue"></a>
   <a href="https://whatsapp.com/channel/0029Vb6d0LyFy72HEaYrP53K"><img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=flat-square&logo=whatsapp"></a>
-  <a href="https://github.com/Mulanation"><img src="https://img.shields.io/badge/Mulanation-blueviolet?style=flat-square"></a>
+  <a href="https://github.com/tech787"><img src="https://img.shields.io/badge/Mulanation-blueviolet?style=flat-square"></a>
 </p>
 
 **SESSION ID💫**
 
-[![Get Session](https://img.shields.io/badge/Get%20Session-KADIKI-XMD-blueviolet?style=for-the-badge&logo=linktree)](https://kadikixmd-pair.onrender.com/)
+[![Get Session](https://img.shields.io/badge/Get%20Session-NICK-XMD-blueviolet?style=for-the-badge&logo=linktree)](https://kadikixmd-pair.onrender.com/)
 ---
 
 🧠 Features
